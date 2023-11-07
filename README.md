@@ -1,8 +1,8 @@
 # Lista_T4_Linguagens
 
 Integrantes: 
-    Luis Felipe Rossi
-    Pablo Montiel
+    Luis Felipe Rossi,
+    Pablo Montiel,
     Vitor Venturini
 
 Esse programa em Haskell foi desenvolvido para a disciplina de Linguagens de Programação da PUCRS no curso de Eng. de Software
